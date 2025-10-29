@@ -1,0 +1,10 @@
+[
+{ "id": "l1", "label": "Library Portal", "url": "https://www.kluniversity.in/lib/" },
+{ "id": "l2", "label": "Bus Timetable", "url": "https://www.kluniversity.in/transp.aspx" },
+{ "id": "l3", "label": "Cafeteria Menu", "url": "https://www.kluniversity.in/cafteria.aspx" },
+{ "id": "l4", "label": "Exam Schedule", "url": "https://www.kluniversity.in/es.aspx?id=10139" },
+{ "id": "l5", "label": "Clubs & Societies", "url": "https://sac.kluniversity.in/clubRegistrationu" },
+{ "id": "l6", "label": "Placement Cell", "url": "https://www.kluniversity.in/preg/" },
+{ "id": "l7", "label": "Student Email", "url": "https://newerp.kluniversity.in/" },
+{ "id": "l8", "label": "Campus Map", "url": "https://www.kluniversity.in/campus-tour.aspx" }
+]

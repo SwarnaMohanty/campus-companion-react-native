@@ -1,0 +1,27 @@
+[
+{ "id": "e1", "title": "Freshers Meetup", "dateISO": "2025-11-05T10:00:00Z",
+"imageUrl": "https://picsum.photos/400/300?1", "description": "Welcome the new batch with fun activities, icebreakers and club fairs." },
+{ "id": "e2", "title": "Tech Talk: AI Today", "dateISO":
+"2025-11-12T14:00:00Z", "imageUrl": "https://picsum.photos/400/300?2",
+"description": "A talk on modern AI trends and hands-on demos." },
+{ "id": "e3", "title": "Coding Hackathon", "dateISO": "2025-12-03T09:00:00Z",
+"imageUrl": "https://picsum.photos/400/300?3", "description":
+"24-hour hackathon with prizes and mentorship." },
+{ "id": "e4", "title": "Cultural Night", "dateISO": "2025-12-20T18:00:00Z",
+"imageUrl": "https://picsum.photos/400/300?4", "description": "An evening of music, dance, and theatre." },
+{ "id": "e5", "title": "Resume Workshop", "dateISO": "2025-11-22T11:00:00Z",
+"imageUrl": "https://picsum.photos/400/300?5", "description": "Improve your CV with industry-focused tips."},
+{ "id": "e6", "title": "Sports Day", "dateISO": "2026-01-15T08:00:00Z",
+"imageUrl": "https://picsum.photos/400/300?6", "description": "Inter-departmental sports competitions and awards." },
+{ "id": "e7", "title": "Guest Lecture: Cloud", "dateISO":
+"2025-11-29T15:30:00Z", "imageUrl": "https://picsum.photos/400/300?7",
+"description": "Industry expert on cloud-native architectures." },
+{ "id": "e8", "title": "Art Workshop", "dateISO": "2025-12-01T12:00:00Z",
+"imageUrl": "https://picsum.photos/400/300?8", "description":
+"Hands-on painting and craft session." },
+{ "id": "e9", "title": "Alumni Meet", "dateISO": "2026-02-10T17:00:00Z",
+"imageUrl": "https://picsum.photos/400/300?9", "description": "Network withalumni and hear career stories." },
+{ "id": "e10", "title": "Research Symposium", "dateISO":
+"2026-03-05T09:30:00Z", "imageUrl": "https://picsum.photos/400/300?10",
+"description": "Student research presentations and posters." }
+]
